@@ -1,0 +1,3 @@
+相看numpy 版本：
+numpy.version.full_version
+
